@@ -1,10 +1,10 @@
 ## Hi 👋 My name is Alexandre Pires de Almeida 
 
-## I'm web developer 🖥 
+## I'm software engineer 🖥 
 
 
 * 🌍  I'm based in Paris 
-* ✉️  You can contact me at [a.pires130@gmail.com](mailto:a.pires130@gmail.com)
+* ✉️  You can contact me at [al.piresdealmeida@gmail.com](mailto:al.piresdealmeida@gmail.com)
 
                     
 
