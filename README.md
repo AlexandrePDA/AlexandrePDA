@@ -3,7 +3,6 @@
 # I'm software engineer 🖥 
 
 
-* 🌍  I'm based in Paris 
 * ✉️  You can contact me at [al.piresdealmeida@gmail.com](mailto:al.piresdealmeida@gmail.com)
 
                     
