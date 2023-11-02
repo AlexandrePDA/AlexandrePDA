@@ -1,7 +1,7 @@
 #  I'm Web Developer | React TypeScript & NodeJs ⚡️
 
 
-* ✉️  Contact me
+* 📩  Contact me
   
   - [Email](mailto:al.piresdealmeida@gmail.com)
   - [Linkedin](www.linkedin.com/in/alexandre-pires-de-almeida)
