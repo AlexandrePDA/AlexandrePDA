@@ -1,5 +1,4 @@
-#  I'm Web Developer | React TypeScript & NodeJs ⚡️
-
+![Description de l'image](./banniereLK.png)
 
 * 📩  Contact me
   
@@ -7,7 +6,9 @@
   - [Linkedin](www.linkedin.com/in/alexandre-pires-de-almeida)
   - [Malt](https://www.malt.fr/profile/alexandrepiresdealmeida)
  
+* Read me 📚
 
+  - [My Blog](https://alexandre-blog.vercel.app)
                     
 
 # Skills
