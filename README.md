@@ -6,7 +6,7 @@
   - [Linkedin](www.linkedin.com/in/alexandre-pires-de-almeida)
   - [Malt](https://www.malt.fr/profile/alexandrepiresdealmeida)
  
-* Read me 📚
+* 📚 Read me 
 
   - [My Blog](https://alexandre-blog.vercel.app)
                     
