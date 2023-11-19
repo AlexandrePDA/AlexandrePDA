@@ -13,7 +13,11 @@
 
 # Skills
 
+<div align="center">
+
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrePDA&layout=compact)
+</div>
 
 ✅ Languages
 
