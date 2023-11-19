@@ -2,7 +2,7 @@ name: Daily README Update
 
 on:
   schedule:
-    - cron: '59 18 * * *' # Exécute le script tous les jours à minuit UTC
+    - cron: '07 19 * * *' 
 
 jobs:
   update-readme:
