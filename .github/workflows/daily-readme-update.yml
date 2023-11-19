@@ -1,0 +1,20 @@
+name: Daily README Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Exécute le script tous les jours à minuit UTC
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Update README
+      run: |
+        echo "Dernière mise à jour : $(date)" >> README.md
+        git config --global user.name 'AlexandrePDA'
+        git config --global user.email 'a.pires130@gmail.com'
+        git add README.md
+        git commit -m "Mise à jour quotidienne du README"
+        git push
