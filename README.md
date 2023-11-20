@@ -1,12 +1,12 @@
 ![Description de l'image](./banniereLK.png)
 
-* 📩  Contact me
+* 💌  Contact me
   
   - [Email](mailto:al.piresdealmeida@gmail.com)
   - [Linkedin](www.linkedin.com/in/alexandre-pires-de-almeida)
   - [Malt](https://www.malt.fr/profile/alexandrepiresdealmeida)
  
-* 📚 Read me 
+* ⭐️ Read me 
 
   - [My Blog](https://alexandre-blog.vercel.app)
                     
@@ -54,6 +54,3 @@
  
 
 
-
-Dernière mise à jour : Sun Nov 19 17:12:02 UTC 2023
-Dernière mise à jour : Sun Nov 19 17:23:17 UTC 2023
