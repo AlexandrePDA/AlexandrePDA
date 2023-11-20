@@ -1,22 +1,26 @@
 ![Description de l'image](./banniereLK.png)
 
+<div align="center">
+  
 # 👋🏽 About me
 
 ### 💌  **Contact me**
   
-  - [Email](mailto:al.piresdealmeida@gmail.com)
-  - [Linkedin](www.linkedin.com/in/alexandre-pires-de-almeida)
-  - [Malt](https://www.malt.fr/profile/alexandrepiresdealmeida)
+  [Email](mailto:al.piresdealmeida@gmail.com)
+  [Linkedin](www.linkedin.com/in/alexandre-pires-de-almeida)
+[Malt](https://www.malt.fr/profile/alexandrepiresdealmeida)
  
 ### ⭐️ **Read me** 
 
-  - [My Blog](https://alexandre-blog.vercel.app)
+[My Blog](https://alexandre-blog.vercel.app)
+
+
+
                     
 
 # 🦾 Skills
 
 
-<div align="center">
   
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrePDA&layout=compact)
