@@ -1,18 +1,19 @@
 ![Description de l'image](./banniereLK.png)
 
+# 👋🏽 About me
 
-* 💌  **Contact me**
+### 💌  **Contact me**
   
   - [Email](mailto:al.piresdealmeida@gmail.com)
   - [Linkedin](www.linkedin.com/in/alexandre-pires-de-almeida)
   - [Malt](https://www.malt.fr/profile/alexandrepiresdealmeida)
  
-* ⭐️ **Read me** 
+### ⭐️ **Read me** 
 
   - [My Blog](https://alexandre-blog.vercel.app)
                     
 
-# Skills
+# 🦾 Skills
 
 
 <div align="center">
@@ -29,7 +30,7 @@
 
 ---
 
-✅ Frameworks
+🧩 Frameworks
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -39,14 +40,14 @@
 
 ---
 
-✅ DevOps
+⛴️ DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
 ---
 
-✅ BDD
+📊 BDD
   
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
@@ -57,7 +58,7 @@
 ---
 
 
-✅ Others
+↗️ Others
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
@@ -74,5 +75,4 @@
  
 </div>
 
-Dernière mise à jour : Mon Nov 20 14:13:11 UTC 2023
-Dernière mise à jour : Mon Nov 20 14:14:06 UTC 2023
+
