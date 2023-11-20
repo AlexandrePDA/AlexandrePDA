@@ -1,5 +1,7 @@
 ![Description de l'image](./banniereLK.png)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexandrePDA&label=Profile%20views&color=0e75b6&style=flat" alt="AlexandrePDA" /> </p>
+
 <div align="center">
   
 # 👋🏽 About me
