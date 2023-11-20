@@ -7,7 +7,9 @@
 ### 💌  **Contact me**
   
   [Email](mailto:al.piresdealmeida@gmail.com)
+  
   [Linkedin](www.linkedin.com/in/alexandre-pires-de-almeida)
+  
 [Malt](https://www.malt.fr/profile/alexandrepiresdealmeida)
  
 ### ⭐️ **Read me** 
@@ -71,8 +73,6 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
