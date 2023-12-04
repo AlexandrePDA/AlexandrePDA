@@ -81,15 +81,3 @@
  
 </div>
 
-Dernière mise à jour : Fri Nov 24 13:57:30 UTC 2023
-Dernière mise à jour : Fri Nov 24 17:20:10 UTC 2023
-Dernière mise à jour : Sat Nov 25 17:19:16 UTC 2023
-Dernière mise à jour : Sun Nov 26 17:19:18 UTC 2023
-Dernière mise à jour : Mon Nov 27 17:21:31 UTC 2023
-Dernière mise à jour : Tue Nov 28 17:21:26 UTC 2023
-Dernière mise à jour : Wed Nov 29 17:21:54 UTC 2023
-Dernière mise à jour : Thu Nov 30 17:21:59 UTC 2023
-Dernière mise à jour : Fri Dec  1 17:21:13 UTC 2023
-Dernière mise à jour : Sat Dec  2 17:19:56 UTC 2023
-Dernière mise à jour : Sun Dec  3 17:19:18 UTC 2023
-Dernière mise à jour : Mon Dec  4 17:21:44 UTC 2023
